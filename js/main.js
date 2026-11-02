@@ -1,7 +1,7 @@
 /* TAGDIGITAL — comportamiento mínimo de la landing. */
 (function () {
   // Número de WhatsApp en formato internacional, sin "+" ni espacios.
-  var WHATSAPP = "5491156913265";
+  var WHATSAPP = "5491159425589";
 
   function whatsappUrl(message) {
     var base = "https://wa.me/" + WHATSAPP;
